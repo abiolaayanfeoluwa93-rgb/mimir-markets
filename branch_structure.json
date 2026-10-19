@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-334-fix-api-bind-council-passes-to-the-exact-payer",
+    "fix/issue-352-test-agents-cover-trader-joinable-claim",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-334-fix-api-bind-council-passes-to-the-exact-payer": "main",
+    "fix/issue-352-test-agents-cover-trader-joinable-claim": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-334-fix-api-bind-council-passes-to-the-exact-payer",
+    "fix/issue-352-test-agents-cover-trader-joinable-claim",
+    "origin"
+  ]
+}
